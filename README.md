@@ -1,1 +1,1 @@
-Only for Educational Use
+Only for Educational Use.
