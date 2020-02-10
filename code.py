@@ -1,4 +1,4 @@
-#code for extracting pass from firefox
+#code for extracting pass from firefox only
 # Educational Pupose Only
 <<<<<<< HEAD
 
