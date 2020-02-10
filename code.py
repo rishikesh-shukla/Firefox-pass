@@ -1,6 +1,11 @@
 #code for extracting saved pass from Firefox
 # Educational Pupose Only
+<<<<<<< HEAD
 #Do not use for illeagal pupose
+=======
+#Do not use for any legal use
+#
+>>>>>>> Adding comment in code file
 import base64
 from ctypes import *
 import struct
