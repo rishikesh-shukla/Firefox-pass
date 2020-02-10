@@ -1,4 +1,4 @@
-#code for extracting saved pass from Firefox
+#code for extracting pass from firefox
 # Educational Pupose Only
 <<<<<<< HEAD
 
