@@ -1,3 +1,5 @@
+#code for extracting saved pass from Firefox
+
 import base64
 from ctypes import *
 import struct
