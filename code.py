@@ -1,7 +1,8 @@
 #code for extracting saved pass from Firefox
 # Educational Pupose Only
 <<<<<<< HEAD
-#Do not use for illeagal pupose
+
+#Do not use for illeagal pupose. Stay Safe use Safely
 =======
 #Do not use for any legal use
 #
