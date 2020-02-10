@@ -1,6 +1,6 @@
 #code for extracting saved pass from Firefox
 # Educational Pupose Only
-
+#Do not use for illeagal pupose
 import base64
 from ctypes import *
 import struct
